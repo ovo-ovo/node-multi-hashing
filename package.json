@@ -6,7 +6,7 @@
     "name": "zone117x"
   },
   "repository": {
-    "type": "git",
+    "type": "git"
     "url": "https://github.com/UNOMP/node-multi-hashing.git"
   },
   "dependencies": {
